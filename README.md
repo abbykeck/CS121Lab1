@@ -10,7 +10,10 @@ repo for CS121 lab 1
 *italic*
 **bold**
 
-  ```
+Here is some C code
+I made these changes locally on my laptop
+
+```
   #include <stdio.h>
   int main(){
   printf("hello");
