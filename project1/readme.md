@@ -3,7 +3,7 @@
 I'm hoping to learn
 * how to be a better programmer
 * more about how programming works
-*something interesting about myself is* **I played viola in high school**
+* *something interesting about myself is* **I played viola in high school**
 ```
 public class Hello {
     public static void main(String[] args){
@@ -11,4 +11,3 @@ public class Hello {
     }
 }
 ```
-
